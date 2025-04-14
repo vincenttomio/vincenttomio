@@ -1,7 +1,7 @@
 # Hi there! I'm Vincent Tomio 👋
 
 ## 🚀 About Me
-I'm a Biomedical Informatics graduate from the Federal University of Paraná (UFPR), bridging the gap between healthcare and technology. Currently working in software engineering and technical support with digital and facial biometrics solutions.
+I'm a B.Sc. in Biomedical Informatics graduate from the Federal University of Paraná (UFPR), bridging the gap between healthcare and technology. Currently working in software engineering and technical support with digital and facial biometrics solutions.
 
 ## 💻 Tech Stack
 - 🔬 Experienced in Software Engineering, Data Analysis, and Web Development
